@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jonathan Chi
 - 👀 I’m interested in airsoft and DJ
-- 🌱 I’m currently a year 1 in HKUST school of engineering
+- 🌱 I’m currently a year 3 in HKUST school of engineering
 - 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me : Email: thchi102@gmail.com
                        whatsapp: +852 63688614
