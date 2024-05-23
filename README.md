@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Jonathan Chi
-- 👀 I’m interested in airsoft and DJ
-- 🌱 I’m currently a year 3 in HKUST school of engineering
-- 💞️ I’m looking to collaborate on ???
+- 👋 I am CHI, Ting Hsuan (Jonathan). Double major in Computer Science and Electronic Engineering at The Hong Kong University of Science and Technology
+- 👀 I’m interested in exploring various areas in software engineering, AI, security, and robotics. 
 - 📫 How to reach me : Email: thchi102@gmail.com
                        whatsapp: +852 63688614
 
